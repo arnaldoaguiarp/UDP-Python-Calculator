@@ -6,9 +6,7 @@ operators = {
             "+": operator.add, 
             "-": operator.sub, 
             '*' : operator.mul,
-            '/' : operator.truediv,  
-            #'%' : operator.mod,
-            #'^' : operator.xor, 
+            '/' : operator.truediv,
             }
 
 IP = "127.0.0.1"
